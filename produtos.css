@@ -2,6 +2,11 @@ header {
     background: #bd4141;
 }
 
+nav {
+    position: absolute
+    top: 0;
+    right: 0;
+}
 nav li {
     display: inline;
     margin: 0 0 0 15px;
