@@ -11,7 +11,7 @@ header {
 
 nav {
     position: absolute;
-    top: 200px;
+    top: 110px;
     right: 0;
 }
 
@@ -32,16 +32,4 @@ nav a {
     width: 100px;
     margin: 0 auto;
     padding: 10px 0;
-}
-
-.produtos li {
-    display: inline-block;
-    text-align: center;
-    width: 50%;
-    vertical-align: top;
-    margin: 0 1.5%;
-    padding: 30px 20px;
-    box-sizing: border-box;
-    border: 2px solid #000000;
-    border-radius: 10px;
 }
