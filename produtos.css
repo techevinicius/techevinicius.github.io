@@ -28,8 +28,7 @@ nav a {
     text-decoration: none;
 }
 
-.produtos {
-    width: 100px;
-    margin: 0 auto;
-    padding: 10px 0;
+.produtos li {
+    display: inline-block;
+    
 }
